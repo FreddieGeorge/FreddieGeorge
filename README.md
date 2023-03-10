@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 📫 我的个人博客: [https://freddiegeorge.github.io/](https://freddiegeorge.github.io/)
 
-<!--
-star太少不好意思放出来
-![FreddieGeorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreddieGeorge)
--->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
