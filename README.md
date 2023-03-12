@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-506%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-509%20hrs%2040%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-834.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -40,5 +40,5 @@ Windows                  3 hrs 16 mins       ████░░░░░░░�
 ```
 
 
- Last Updated on 11/03/2023 00:37:24 UTC
+ Last Updated on 12/03/2023 00:43:11 UTC
 <!--END_SECTION:waka-->
