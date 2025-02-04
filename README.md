@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Text                     6 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/02/2025 00:49:03 UTC
+ Last Updated on 04/02/2025 00:47:25 UTC
 <!--END_SECTION:waka-->
