@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C094%20hrs%2052%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.10%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -40,5 +38,5 @@ Linux                    8 hrs 9 mins        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 23/05/2026 02:06:27 UTC
+ Last Updated on 24/05/2026 02:14:55 UTC
 <!--END_SECTION:waka-->
