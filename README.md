@@ -30,38 +30,38 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C                        6 hrs 4 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.00 % 
-C++                      5 hrs 26 mins       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.87 % 
-Makefile                 3 hrs 39 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.08 % 
-Devicetree               2 hrs 50 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.04 % 
-Other                    56 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.65 % 
+C                        6 hrs 4 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.42 % 
+C++                      5 hrs 26 mins       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.14 % 
+Makefile                 3 hrs 39 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.94 % 
+Devicetree               2 hrs 9 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.13 % 
+Other                    43 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.71 % 
 
 💻 Operating System: 
-Linux                    20 hrs 15 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Linux                    19 hrs 20 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 39 mins (62.52%)
+⏱ AI Coding Time: 11 hrs 44 mins (60.75%)
 
 ✍️ 957 lines written by AI, 292 lines written by hand (76.62% AI-written)
 
-🔤 16,779,763 Input Tokens, 569,119 Output Tokens
+🔤 14,793,923 Input Tokens, 496,855 Output Tokens
 
-💵 $263.34 Estimated AI Cost This Week
+💵 $234.72 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 188 AI Prompts
+🧠 9 AI Sessions, 180 AI Prompts
 
 GPT                      990 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 76.62% of written lines came from AI
-📄 Detailed Prompter — average 841 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🔍 Hands-On Reviewer — 66.73% of changed lines were hand-edited
+📄 Detailed Prompter — average 859 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🔍 Hands-On Reviewer — 66.72% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/10/2026 03:26:54 UTC
+ Last Updated on 05/10/2026 03:04:46 UTC
 <!--END_SECTION:waka-->
