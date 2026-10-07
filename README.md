@@ -30,38 +30,38 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C                        6 hrs 1 min         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.90 % 
-Makefile                 3 hrs 37 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.89 % 
-C++                      2 hrs 21 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.83 % 
-Devicetree               41 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.89 % 
-Other                    35 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.27 % 
+C                        4 hrs 9 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.80 % 
+C++                      1 hr 28 mins        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.92 % 
+Makefile                 27 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.80 % 
+Devicetree               22 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.52 % 
+Other                    10 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.58 % 
 
 💻 Operating System: 
-Linux                    14 hrs 2 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Linux                    6 hrs 43 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 37 mins (68.55%)
+⏱ AI Coding Time: 4 hrs 18 mins (64.1%)
 
-✍️ 573 lines written by AI, 291 lines written by hand (66.32% AI-written)
+✍️ 58 lines written by AI, 237 lines written by hand (19.66% AI-written)
 
-🔤 12,630,986 Input Tokens, 439,321 Output Tokens
+🔤 4,733,676 Input Tokens, 151,243 Output Tokens
 
-💵 $205.94 Estimated AI Cost This Week
+💵 $85.19 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 156 AI Prompts
+🧠 2 AI Sessions, 86 AI Prompts
 
-GPT                      606 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+GPT                      58 lines            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 66.32% of written lines came from AI
-📝 Concise Prompter — average 366 characters per prompt
-🔁 Iterative Prompter — average 31 prompts per session
-🔍 Hands-On Reviewer — 76.57% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 19.66% of written lines came from AI
+📝 Concise Prompter — average 350 characters per prompt
+🔁 Iterative Prompter — average 43 prompts per session
+🔍 Hands-On Reviewer — 97.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 03:54:02 UTC
+ Last Updated on 07/10/2026 03:21:40 UTC
 <!--END_SECTION:waka-->
