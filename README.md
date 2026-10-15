@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C340%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C341%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-228%20hrs%2059%20mins-blue?style=flat)
 
@@ -30,39 +30,39 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C++                      6 hrs 52 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.84 % 
-C                        6 hrs 9 mins        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.38 % 
-Devicetree               3 hrs 19 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.85 % 
-Makefile                 2 hrs 23 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.45 % 
-Other                    53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.30 % 
+C                        10 hrs 4 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.34 % 
+C++                      7 hrs 36 mins       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.75 % 
+Devicetree               3 hrs 19 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.97 % 
+Makefile                 2 hrs 23 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.37 % 
+Other                    53 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.51 % 
 
 💻 Operating System: 
-Linux                    20 hrs 47 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.34 % 
-Windows                  8 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.66 % 
+Linux                    25 hrs 27 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.46 % 
+Windows                  8 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 55 mins (37.85%)
+⏱ AI Coding Time: 8 hrs 11 mins (32.03%)
 
-✍️ 163 lines written by AI, 418 lines written by hand (28.06% AI-written)
+✍️ 163 lines written by AI, 422 lines written by hand (27.86% AI-written)
 
-🔤 14,751,154 Input Tokens, 279,580 Output Tokens
+🔤 15,270,526 Input Tokens, 284,497 Output Tokens
 
-💵 $211.82 Estimated AI Cost This Week
+💵 $218.16 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 102 AI Prompts
+🧠 5 AI Sessions, 108 AI Prompts
 
 GPT                      171 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 28.06% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 27.86% of written lines came from AI
 📝 Concise Prompter — average 288 characters per prompt
-🔁 Iterative Prompter — average 26 prompts per session
-🔍 Hands-On Reviewer — 74.25% of changed lines were hand-edited
+🔁 Iterative Prompter — average 22 prompts per session
+🔍 Hands-On Reviewer — 74.52% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/10/2026 02:44:57 UTC
+ Last Updated on 15/10/2026 02:24:15 UTC
 <!--END_SECTION:waka-->
